@@ -1,0 +1,24 @@
+symbol,exchange,name,country,sector
+AAPL.US,US,Apple,USA,Tech
+MSFT.US,US,Microsoft,USA,Tech
+GOOG.US,US,Alphabet,USA,Tech
+TSM.TW,TW,TSMC,Taiwan,Tech
+SONY.JP,JP,Sony,Japon,Tech
+NVO.DC,DC,Novo Nordisk,Danemark,Santé
+REGN.US,US,Regeneron,USA,Santé
+ILMN.US,US,Illumina,USA,Biotech
+XOM.US,US,ExxonMobil,USA,Énergie
+ENI.IT,IT,ENI,Italie,Énergie
+BP.L,L,BP,Royaume-Uni,Énergie
+PLUG.US,US,Plug Power,USA,Green Tech
+ORSTED.CO,CO,Ørsted,Danemark,Green Tech
+NIO.US,US,NIO,Chine,Green Tech
+MC.PA,PA,LVMH,France,Luxe
+KER.PA,PA,Kering,France,Luxe
+CP.TO,TO,Canada Goose,Canada,Luxe
+PG.US,US,Procter & Gamble,USA,Consommation
+NESN.SW,SW,Nestlé,Suisse,Consommation
+ULVR.L,L,Unilever,Royaume-Uni,Consommation
+AIR.PA,PA,Airbus,France,Industrie
+HON.US,US,Honeywell,USA,Industrie
+7203.T,T,Toyota,Japon,Industrie
